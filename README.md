@@ -1,4 +1,7 @@
 # Trending_YouTube_Videos_Analysis
+
+<img src="https://img.shields.io/badge/Language-Python3-green"> <img src="https://img.shields.io/badge/Model-Ensemble Learning-red"> 
+
 **Abstract** -  Youtube, the world-famous content sharing
 platform maintains a list of the most trending videos
 which keeps updating everyday. Many videos of many
