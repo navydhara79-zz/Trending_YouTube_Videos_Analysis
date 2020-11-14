@@ -282,10 +282,10 @@ libraries in Python for data science.
 [5] Thomas G. Dietterich, Ensemble Methods in
 Machine Learning
 
-[6] T op 50 matplotlib Visualizations – The
+[6] Top 50 matplotlib Visualizations – The
 Master Plots
 
-[7] S imple guide for ensemble learning methods
+[7] Simple guide for ensemble learning methods
 
 
 <p align="center">
