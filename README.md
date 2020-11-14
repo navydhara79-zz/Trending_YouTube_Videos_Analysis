@@ -1,6 +1,10 @@
 # Trending_YouTube_Videos_Analysis
 
-<img src="https://img.shields.io/badge/Language-Python3-green"> <img src="https://img.shields.io/badge/Model-Ensemble Learning-red"> 
+<p align="center"><img src="https://img.shields.io/badge/Language-Python3-green"> <img src="https://img.shields.io/badge/Model-Ensemble Learning-red"> </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif">
+</p>
 
 **Abstract** -  Youtube, the world-famous content sharing
 platform maintains a list of the most trending videos
@@ -13,7 +17,7 @@ analysis on the trending videos and the tagged user data.
 
 Keywords—Youtube, Ensemble learning, Data Cleaning
 
-<h4><center><b>I. INTRODUCTION</b></center></h4>
+<p align="center"><h4><center><b>I. INTRODUCTION</b></center></h4></p>
 YouTube is the most popular and most used video
 platform in the world today. It has a list of trending videos
 that is updated constantly. We use Python and its data &
@@ -280,3 +284,9 @@ Machine Learning
 Master Plots
 
 [7] S imple guide for ensemble learning methods
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l2JeaFDEUkyXjoULK/giphy.gif" align="">
+</p>
+
