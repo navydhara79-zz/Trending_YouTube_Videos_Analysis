@@ -1,5 +1,7 @@
 # Trending_YouTube_Videos_Analysis
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/95c5a67b1da647599fb2480fe417626c)](https://app.codacy.com/gh/navydhara79/Trending_YouTube_Videos_Analysis?utm_source=github.com&utm_medium=referral&utm_content=navydhara79/Trending_YouTube_Videos_Analysis&utm_campaign=Badge_Grade)
+
 <p align="center"><img src="https://img.shields.io/badge/Language-Python3-green"> <img src="https://img.shields.io/badge/Model-Ensemble Learning-red"> </p>
 
 <p align="center">
