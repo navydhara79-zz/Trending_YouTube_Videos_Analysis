@@ -2,7 +2,7 @@
 
 
 
-<p align="center"><img src="https://img.shields.io/badge/Language-Python3-green"> <img src="https://img.shields.io/badge/Model-Ensemble Learning-red"> </p>
+<p align="center"><img src="https://img.shields.io/badge/Python-3.6-green"> <img src="https://img.shields.io/badge/Model-Ensemble Learning-red"> </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif">
